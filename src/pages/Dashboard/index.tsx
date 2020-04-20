@@ -26,6 +26,33 @@ const Dashboard: React.FC = () => {
 
                     <FiChevronRight size={20} />
                 </a>
+                <a href="test">
+                    <img src="https://avatars0.githubusercontent.com/u/54367134?s=460&v=4" alt="EricLoBin"/>
+                    <div>
+                        <strong>EricLoBin/GoStack-Nivel-3-ReactApp</strong>
+                        <p>No description, website, or topics provided.</p>
+                    </div>
+
+                    <FiChevronRight size={20} />
+                </a>
+                <a href="test">
+                    <img src="https://avatars0.githubusercontent.com/u/54367134?s=460&v=4" alt="EricLoBin"/>
+                    <div>
+                        <strong>EricLoBin/GoStack-Nivel-3-ReactApp</strong>
+                        <p>No description, website, or topics provided.</p>
+                    </div>
+
+                    <FiChevronRight size={20} />
+                </a>
+                <a href="test">
+                    <img src="https://avatars0.githubusercontent.com/u/54367134?s=460&v=4" alt="EricLoBin"/>
+                    <div>
+                        <strong>EricLoBin/GoStack-Nivel-3-ReactApp</strong>
+                        <p>No description, website, or topics provided.</p>
+                    </div>
+
+                    <FiChevronRight size={20} />
+                </a>
             </Repositories>
         </>
     );
